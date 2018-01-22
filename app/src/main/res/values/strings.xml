@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyAdBlock</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="cannot_read_config">Cannot read configuration: %s</string>
+    <string name="cannot_load_default_config">Cannot read default settings: %s - This should not happen</string>
+    <string name="cannot_restore_previous_config">Cannot restore previous configuration: %s</string>
+
+</resources>
